@@ -1,1 +1,1 @@
-# o365tools
+# o365-tools
